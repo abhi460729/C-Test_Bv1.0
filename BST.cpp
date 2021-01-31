@@ -98,3 +98,9 @@ public:
             }
         }
 };
+
+int main(){
+    Map<int,int> m;
+    m.insert(2,5);
+    return 0;
+}
